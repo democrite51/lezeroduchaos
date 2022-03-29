@@ -1,0 +1,18 @@
+.texteHISTOIRE{
+    padding:20px;
+    color:white;
+    size:30px;
+}
+.couleur{
+    background-color: rgb(128, 128, 128);
+}
+.MEFHISTOIRE{
+    width: 400px;
+    border-radius: 25px;
+    vertical-align:middle;
+    float:right;
+    margin-right:50px;
+    margin-top:20px
+    
+    
+}

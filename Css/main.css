@@ -1,0 +1,72 @@
+.Paragraphe_Intro {
+    color:black;
+    /*Type de police*/
+    font-style: normal;
+    /*Format de police*/
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;  
+}
+.BoxHistoire{    
+    font-size: 18px; 
+    padding: 10px; 
+    border: 1px solid lightgray; 
+    margin: 10px;
+    background-color:rgb(238, 238, 238);
+}
+.EmplacementBoxHistoire{
+    padding-top:100px;
+    padding-left:40px;
+    padding-right:40px;
+}
+.Fond{
+    background-color:rgb(102, 102, 102);
+}
+.footer{
+    position:sticky
+}
+.Citation{
+    color:white;
+    display:flex;
+    justify-content: right;
+    padding-right:20px;
+    margin-top:40px;
+    text-shadow: 2px 2px 5px black;
+
+}
+
+.BOXIMG{
+    display:flex;
+    
+    justify-content: center;
+    padding-top :30px;
+    border-radius: 25px;
+}
+
+.ImageAcceuil{
+    width:fit-content;
+    border-radius: 25px;
+    box-shadow: 0 0 8px 8px rgb(59, 59, 59) inset;
+    
+}
+.ImagePrinter{
+    width:500px;
+    justify-content: center;
+    border-radius: 25px;
+}
+
+.BOXIMG2{
+    display:flex;
+    justify-content: right;
+    padding-top :50px;
+    border-radius: 25px;
+    padding-right: 40px;
+}
+
+.PositionCNCTXT{
+    display:flex;
+    justify-content: left;
+    background-color:rgb(102, 102, 102);
+}
+
+.background{
+    background-color: rgb(128, 128, 128);
+}
